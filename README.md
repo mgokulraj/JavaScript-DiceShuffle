@@ -1,5 +1,3 @@
 # JavaScript-DiceShuffle
 
-A simple dice roll game using javascript
-
-Two players game, a player who gets 100 points win the match!!
+Checkout the dice shuffle game, play by clicking the roll dice button and get the points. Its 2 players game and the one gets the 100 points first win the game :)
